@@ -8,25 +8,6 @@
 * Currently building 🤖 [Web3 Summary](https://web3summary.com) - get rid of the headaches of web3 using AI
 
 
-## 🧔 Professional Experience
-
-* Built and scaled a [doubt resolution app](https://www.facebook.com/watch/?v=883796972040441). The app lets students point their phone's camera at a problem and get an instant answer. It was featured at [Google I/O 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html). The app has 1M+ installs
-
-* Helped develop an [educational product](https://www.talkwithmeapp.com/) for people with autism while working at Inclusys. Callaghan Innovation (a crown entity of New Zealand) backed it. It has ~3K users worldwide
-
-* Developed frontend components for [LabXchange](https://www.labxchange.org/) (Harvard's science classroom) while working at OpenCraft. LabXchange gets ~125K monthly users worldwide
-
-
-## 🫶 Open Source Contributions
-
-* [Refactored code linting pipeline](https://github.com/zulip/zulip/commits?author=absurdfounder) for Dropbox's Zulip (16.2K+ stars on GitHub)
-* [Created dashboards for tutors](https://github.com/pythonindia/wye/commits?author=absurdfounder) for PythonIndia's Wye
-* [Improved test cases](https://github.com/mozilla/fjord/commits?author=absurdfounder) for Mozilla's Fjord
-* Open sourced [several](https://github.com/paytm/django-supermigrate/commits?author=absurdfounder) [packages](https://github.com/paytm/django-paytm-oauth/commits?author=absurdfounder) at [Paytm](https://github.com/paytm/dj-j-ka-bachcha-field/commits?author=absurdfounder) 
-
-
-## ✨ Other Contributions
-
 ### Free Community Blogs and Tools
 
 * Have created multiple free community based resources like [Blockchain Grants](https://blockchaingrants.org/) and [DAO Trilemma](https://daotrilemma.org) and a few more like stablediffusion.in, fixblurry.photos, howtonft.org, cryptoscale, cryptorally, cryptoexit.org etc; .....
