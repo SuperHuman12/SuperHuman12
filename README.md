@@ -11,7 +11,7 @@
 
 ### Free Community Blogs and Tools
 
-* Have created multiple free community based resources like [Blockchain Grants](https://blockchaingrants.org/) and [DAO Trilemma](https://daotrilemma.org) and a few more like stablediffusion.in, fixblurry.photos, howtonft.org, cryptoscale, cryptorally, cryptoexit.org etc; .....
+* Have created multiple free community based resources like [Blockchain Grants](https://blockchaingrants.org/) and [DAO Trilemma](https://daotrilemma.netlify.com) and a few more like [Stable Diffusion FREE](https://stablediffusion.in/), [FixBlurry.Photos FREE](https://fixblurry.photos/), howtonft, [Crypto Scale - Relative Valuations](https://cryptoscale.netlify.app), cryptorally, [Crypto Exit - Profit Taking from Web3](https://cryptoexit.org/) etc; .....
 
 ## 🤝 Connect With Me
 
