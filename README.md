@@ -3,10 +3,7 @@
 
 ## 🟢 Active Projects
 
-* Currently building 💪 [Hustle AI](https://hustleai.co) - an AI app platform where anyone can create, distribute and monetize AI app.
-* Currently building 🐻 [Notion Bear](https://notionbear.com)- a lean startup took kit to quickly spin up a startup management tools in 10 mins 
-* Currently building 🤖 [Web3 Summary](https://web3summary.com) - get rid of the headaches of web3 using AI
-* Currently building ☝ [CSuite] - AI Workflows for Top Level management
+* Currently building 🐻 [Boring Sites](https://boringsites.com)- a lean startup took kit to quickly spin up a startup management tools in 10 mins 
 
 
 ### Free Community Blogs and Tools
