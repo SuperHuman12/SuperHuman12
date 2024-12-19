@@ -3,8 +3,8 @@
 
 ## 🟢 Active Projects
 
-* Currently building 🐻 [Boring Sites](https://boringsites.com)- a lean startup took kit to quickly spin up a startup management tools in 10 mins 
-
+* Currently building 🐻 [Boring Sites](https://boringsites.com)- a no-code directory, helpdesk or blog builder on top of notion as a DB.
+* Currently building 🐱 [Fetch Kitty](https://fetchkitty.com)- the simplest way to scrape data using AI, plagirism free.
 
 ### Free Community Blogs and Tools
 
