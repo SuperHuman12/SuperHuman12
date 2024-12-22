@@ -12,7 +12,7 @@
 
 ## 🤝 Connect With Me
 
-I love connecting with people. You can reach out to me via [email](mailto:absurdfounder@gmail.com).
+I'd love to partner up. You can reach out to me via [email](mailto:absurdfounder@gmail.com).
 
 <a href="https://github.com/superhuman12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
